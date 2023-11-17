@@ -1,0 +1,1001 @@
+id,restaurant_name,category,price_tier,neighborhood,opening_hours,closing,average_rating,good_for_kids
+1,ultrices libero,Japanese,Medium,Meatpacking District,10:00,20:00,4,TRUE
+2,justo pellentesque viverra,Chinese,Expensive,Harlem,10:00,20:00,4,TRUE
+3,in tempus,Mexican,Medium,Tudor City,10:00,20:00,4,TRUE
+4,primis in faucibus,Mexican,Cheap,Upper East Side,10:00,20:00,3,TRUE
+5,porttitor id,Spanish,Cheap,Inwood,10:00,20:00,2,FALSE
+6,volutpat,Japanese,Medium,Morningside Heights,10:00,20:00,5,FALSE
+7,vel nulla,French,Expensive,Little Italy,10:00,20:00,4,TRUE
+8,tristique tortor,Vietnamese,Medium,Gramercy Park,10:00,20:00,3,TRUE
+9,magna at nunc commodo,Korean,Cheap,SoHo,10:00,20:00,5,FALSE
+10,dolor sit,Indian,Expensive,Chelsea,10:00,20:00,4,FALSE
+11,eget eros elementum pellentesque,Japanese,Medium,Inwood,10:00,20:00,1,TRUE
+12,nunc,Japanese,Expensive,Washington Heights,10:00,20:00,5,TRUE
+13,ridiculus mus vivamus vestibulum,Thai,Medium,Gramercy Park,10:00,20:00,5,TRUE
+14,sagittis sapien cum,Middle Eastern,Cheap,Sutton Place,10:00,20:00,1,TRUE
+15,morbi sem mauris laoreet,Japanese,Cheap,Nolita,10:00,20:00,2,TRUE
+16,turpis donec posuere metus,Japanese,Expensive,Lenox Hill,10:00,20:00,3,TRUE
+17,ut,French,Cheap,Chinatown,10:00,20:00,1,FALSE
+18,nullam,Korean,Expensive,Tudor City,10:00,20:00,3,TRUE
+19,sit amet,Spanish,Cheap,Midtown,10:00,20:00,2,TRUE
+20,magna,Japanese,Cheap,Little Italy,10:00,20:00,4,TRUE
+21,mi integer ac,Japanese,Cheap,Yorkville,10:00,20:00,4,FALSE
+22,fermentum,Korean,Expensive,Nolita,10:00,20:00,5,TRUE
+23,convallis,Thai,Medium,Murray Hill,10:00,20:00,5,TRUE
+24,morbi a ipsum integer,Spanish,Cheap,SoHo,10:00,20:00,4,FALSE
+25,maecenas ut,Japanese,Cheap,SoHo,10:00,20:00,1,TRUE
+26,rutrum nulla tellus,Japanese,Expensive,Stuyvesant Town,10:00,20:00,5,FALSE
+27,nullam orci,Chinese,Expensive,Harlem,10:00,20:00,5,FALSE
+28,quam pede lobortis ligula,Middle Eastern,Cheap,West Village,10:00,20:00,5,TRUE
+29,justo,American,Expensive,Financial District,10:00,20:00,3,FALSE
+30,tristique tortor eu,Spanish,Expensive,Morningside Heights,10:00,20:00,4,TRUE
+31,nam tristique tortor,Thai,Expensive,Washington Heights,10:00,20:00,3,FALSE
+32,tortor duis mattis egestas,French,Cheap,Sutton Place,10:00,20:00,5,TRUE
+33,nam ultrices libero,Indian,Cheap,Turtle Bay,10:00,20:00,1,TRUE
+34,blandit nam nulla,Indian,Cheap,East Village,10:00,20:00,1,FALSE
+35,sapien in sapien iaculis,Korean,Expensive,Chelsea,10:00,20:00,1,TRUE
+36,ligula vehicula,Middle Eastern,Cheap,Gramercy Park,10:00,20:00,3,TRUE
+37,dui nec,Japanese,Expensive,Chinatown,10:00,20:00,4,FALSE
+38,sit,Mexican,Cheap,Lower East Side,10:00,20:00,2,FALSE
+39,cubilia curae donec pharetra,French,Cheap,West Village,10:00,20:00,3,FALSE
+40,adipiscing,Japanese,Cheap,Morningside Heights,10:00,20:00,5,TRUE
+41,rhoncus,Italian,Expensive,Gramercy Park,10:00,20:00,2,TRUE
+42,ligula nec sem,Chinese,Cheap,Inwood,10:00,20:00,3,TRUE
+43,erat nulla tempus,Mexican,Cheap,Upper East Side,10:00,20:00,3,TRUE
+44,eleifend,Middle Eastern,Cheap,Meatpacking District,10:00,20:00,2,TRUE
+45,erat fermentum justo nec,Chinese,Expensive,Greenwich Village,10:00,20:00,3,TRUE
+46,consequat varius,Chinese,Medium,Murray Hill,10:00,20:00,2,FALSE
+47,enim blandit,American,Medium,Lenox Hill,10:00,20:00,3,TRUE
+48,morbi vestibulum velit,French,Expensive,Battery Park City,10:00,20:00,4,TRUE
+49,tellus nulla ut,French,Cheap,Financial District,10:00,20:00,3,TRUE
+50,pulvinar nulla pede,Mexican,Cheap,Inwood,10:00,20:00,2,FALSE
+51,posuere,Middle Eastern,Cheap,Tudor City,10:00,20:00,1,TRUE
+52,aenean lectus,American,Expensive,Yorkville,10:00,20:00,4,FALSE
+53,tempus,Chinese,Expensive,Midtown,10:00,20:00,3,FALSE
+54,velit id pretium,Italian,Cheap,Kips Bay,10:00,20:00,4,FALSE
+55,nascetur ridiculus mus etiam,Italian,Expensive,Lincoln Square,10:00,20:00,3,FALSE
+56,nec sem,Vietnamese,Cheap,Kips Bay,10:00,20:00,2,FALSE
+57,justo pellentesque viverra,Japanese,Expensive,Nolita,10:00,20:00,2,FALSE
+58,primis in faucibus,American,Medium,Lower East Side,10:00,20:00,4,FALSE
+59,etiam justo etiam,Italian,Medium,Hell's Kitchen,10:00,20:00,3,TRUE
+60,nunc commodo,Korean,Cheap,Greenwich Village,10:00,20:00,2,TRUE
+61,volutpat eleifend donec,Mexican,Cheap,Gramercy Park,10:00,20:00,2,FALSE
+62,sodales sed tincidunt,Mexican,Cheap,Meatpacking District,10:00,20:00,1,FALSE
+63,nulla neque,Japanese,Expensive,Battery Park City,10:00,20:00,5,TRUE
+64,quis odio,Thai,Medium,Flatiron District,10:00,20:00,5,TRUE
+65,a odio in hac,Vietnamese,Cheap,Tudor City,10:00,20:00,2,FALSE
+66,integer,Korean,Medium,Nolita,10:00,20:00,4,FALSE
+67,libero quis orci nullam,Spanish,Expensive,Yorkville,10:00,20:00,5,FALSE
+68,libero quis,Chinese,Medium,Nolita,10:00,20:00,2,TRUE
+69,maecenas ut,Japanese,Cheap,Turtle Bay,10:00,20:00,1,FALSE
+70,justo,Thai,Cheap,Upper West Side,10:00,20:00,1,TRUE
+71,sed accumsan felis,Vietnamese,Expensive,Kips Bay,10:00,20:00,1,TRUE
+72,lorem vitae mattis nibh,American,Expensive,Kips Bay,10:00,20:00,2,FALSE
+73,pellentesque viverra pede,Thai,Medium,Chinatown,10:00,20:00,4,FALSE
+74,odio,Korean,Expensive,Financial District,10:00,20:00,1,TRUE
+75,sed tincidunt eu felis,French,Cheap,NoHo,10:00,20:00,1,TRUE
+76,nisl ut,Korean,Medium,Chinatown,10:00,20:00,5,TRUE
+77,nulla sed vel,Middle Eastern,Medium,Little Italy,10:00,20:00,3,TRUE
+78,semper rutrum,French,Medium,Greenwich Village,10:00,20:00,4,TRUE
+79,morbi non quam,Chinese,Cheap,Upper East Side,10:00,20:00,1,FALSE
+80,interdum in ante,Thai,Cheap,Upper East Side,10:00,20:00,4,TRUE
+81,est,Italian,Medium,Morningside Heights,10:00,20:00,3,TRUE
+82,id massa id,Vietnamese,Cheap,Inwood,10:00,20:00,5,FALSE
+83,pellentesque eget nunc,French,Medium,Morningside Heights,10:00,20:00,1,TRUE
+84,eros elementum pellentesque,Italian,Cheap,Nolita,10:00,20:00,3,FALSE
+85,posuere,Spanish,Expensive,Gramercy Park,10:00,20:00,5,FALSE
+86,in faucibus orci,Thai,Cheap,East Village,10:00,20:00,5,TRUE
+87,vestibulum ac est,Japanese,Expensive,Meatpacking District,10:00,20:00,1,FALSE
+88,in,Middle Eastern,Cheap,Chelsea,10:00,20:00,1,TRUE
+89,eu,Spanish,Medium,NoHo,10:00,20:00,2,FALSE
+90,sapien urna pretium nisl,Chinese,Cheap,Lenox Hill,10:00,20:00,2,TRUE
+91,mollis molestie lorem quisque,French,Cheap,Sutton Place,10:00,20:00,5,FALSE
+92,tincidunt in,Thai,Expensive,Sutton Place,10:00,20:00,2,FALSE
+93,nisl duis bibendum,Italian,Expensive,Turtle Bay,10:00,20:00,3,FALSE
+94,semper rutrum nulla nunc,Spanish,Expensive,Turtle Bay,10:00,20:00,3,TRUE
+95,erat volutpat,American,Expensive,Meatpacking District,10:00,20:00,5,TRUE
+96,dictumst maecenas ut,Indian,Cheap,Upper East Side,10:00,20:00,5,FALSE
+97,amet,French,Expensive,Lenox Hill,10:00,20:00,4,TRUE
+98,ipsum ac tellus semper,Vietnamese,Medium,Roosevelt Island,10:00,20:00,1,FALSE
+99,ut tellus nulla,Korean,Expensive,Nolita,10:00,20:00,2,FALSE
+100,tortor id nulla ultrices,Indian,Medium,Financial District,10:00,20:00,3,FALSE
+101,massa quis augue,Indian,Medium,Turtle Bay,10:00,20:00,4,FALSE
+102,lacus,Chinese,Medium,Battery Park City,10:00,20:00,2,FALSE
+103,enim,Thai,Medium,Hell's Kitchen,10:00,20:00,2,TRUE
+104,vestibulum sit,Mexican,Medium,NoHo,10:00,20:00,2,TRUE
+105,venenatis tristique fusce congue,American,Medium,Greenwich Village,10:00,20:00,3,FALSE
+106,lobortis est,Spanish,Cheap,Yorkville,10:00,20:00,3,TRUE
+107,rhoncus mauris enim leo,Spanish,Medium,Battery Park City,10:00,20:00,4,FALSE
+108,penatibus et,Japanese,Medium,Inwood,10:00,20:00,4,FALSE
+109,eu massa,Middle Eastern,Medium,Financial District,10:00,20:00,4,FALSE
+110,ut at dolor quis,Vietnamese,Expensive,Little Italy,10:00,20:00,4,TRUE
+111,etiam pretium,Japanese,Cheap,Stuyvesant Town,10:00,20:00,4,FALSE
+112,bibendum felis sed interdum,Korean,Medium,Battery Park City,10:00,20:00,4,TRUE
+113,tempus sit,Korean,Expensive,Inwood,10:00,20:00,1,FALSE
+114,vel dapibus at,Mexican,Cheap,Meatpacking District,10:00,20:00,4,TRUE
+115,at nulla suspendisse,Indian,Cheap,Lincoln Square,10:00,20:00,4,FALSE
+116,id ligula suspendisse,Spanish,Expensive,Inwood,10:00,20:00,1,TRUE
+117,ultrices posuere,French,Medium,Sutton Place,10:00,20:00,3,TRUE
+118,congue diam,Mexican,Medium,Flatiron District,10:00,20:00,1,TRUE
+119,sed,French,Expensive,SoHo,10:00,20:00,3,TRUE
+120,diam id ornare,American,Medium,Financial District,10:00,20:00,4,FALSE
+121,vel,Italian,Medium,Washington Heights,10:00,20:00,5,TRUE
+122,tincidunt eu felis,Spanish,Cheap,Lincoln Square,10:00,20:00,2,FALSE
+123,fringilla rhoncus,Korean,Cheap,Financial District,10:00,20:00,5,FALSE
+124,nulla integer,Chinese,Medium,Tribeca,10:00,20:00,5,TRUE
+125,dui vel nisl,Vietnamese,Medium,Tribeca,10:00,20:00,5,FALSE
+126,sociis natoque penatibus,Indian,Cheap,Financial District,10:00,20:00,3,FALSE
+127,leo pellentesque,American,Medium,Washington Heights,10:00,20:00,4,FALSE
+128,nonummy,Korean,Expensive,Financial District,10:00,20:00,5,FALSE
+129,est quam pharetra,Spanish,Expensive,Washington Heights,10:00,20:00,3,FALSE
+130,sed nisl,Korean,Medium,Upper West Side,10:00,20:00,5,TRUE
+131,quam pede lobortis,Indian,Medium,Turtle Bay,10:00,20:00,2,FALSE
+132,nascetur ridiculus mus,Chinese,Cheap,SoHo,10:00,20:00,5,TRUE
+133,felis,American,Expensive,Tribeca,10:00,20:00,2,TRUE
+134,maecenas leo,Chinese,Expensive,Turtle Bay,10:00,20:00,3,FALSE
+135,lectus in est,Japanese,Medium,Midtown,10:00,20:00,4,FALSE
+136,sit,Indian,Expensive,Sutton Place,10:00,20:00,3,TRUE
+137,nibh in lectus,Vietnamese,Medium,Lenox Hill,10:00,20:00,3,TRUE
+138,ut,Vietnamese,Medium,Kips Bay,10:00,20:00,4,FALSE
+139,odio in hac,Thai,Medium,Chelsea,10:00,20:00,1,FALSE
+140,aliquam erat volutpat,Japanese,Cheap,Lower East Side,10:00,20:00,5,FALSE
+141,curae donec,Thai,Cheap,Lower East Side,10:00,20:00,2,TRUE
+142,dui vel nisl,Japanese,Medium,Stuyvesant Town,10:00,20:00,2,FALSE
+143,vel nisl,Indian,Cheap,Gramercy Park,10:00,20:00,4,TRUE
+144,urna ut tellus,Chinese,Cheap,Chelsea,10:00,20:00,3,TRUE
+145,mauris vulputate,French,Medium,Yorkville,10:00,20:00,2,TRUE
+146,a,Chinese,Medium,Greenwich Village,10:00,20:00,4,FALSE
+147,consequat ut nulla sed,Chinese,Medium,Kips Bay,10:00,20:00,5,TRUE
+148,mauris eget massa,Middle Eastern,Medium,Upper East Side,10:00,20:00,4,TRUE
+149,luctus et ultrices,Thai,Medium,Greenwich Village,10:00,20:00,3,TRUE
+150,lacus morbi,French,Cheap,Lower East Side,10:00,20:00,3,TRUE
+151,turpis nec euismod,Thai,Cheap,Kips Bay,10:00,20:00,2,FALSE
+152,sed justo pellentesque,Italian,Medium,Morningside Heights,10:00,20:00,4,TRUE
+153,imperdiet et commodo vulputate,American,Medium,Murray Hill,10:00,20:00,2,TRUE
+154,erat nulla,Thai,Expensive,Chelsea,10:00,20:00,3,TRUE
+155,suspendisse accumsan tortor,Vietnamese,Cheap,SoHo,10:00,20:00,3,FALSE
+156,venenatis lacinia aenean,Indian,Expensive,Washington Heights,10:00,20:00,1,TRUE
+157,porttitor id consequat in,Korean,Medium,Stuyvesant Town,10:00,20:00,3,FALSE
+158,ultrices phasellus id,American,Cheap,Lenox Hill,10:00,20:00,5,FALSE
+159,nulla,Japanese,Cheap,Tribeca,10:00,20:00,4,FALSE
+160,cras non,French,Cheap,Murray Hill,10:00,20:00,2,FALSE
+161,leo,Italian,Expensive,Morningside Heights,10:00,20:00,5,TRUE
+162,in est risus auctor,American,Expensive,Gramercy Park,10:00,20:00,1,FALSE
+163,quam,French,Expensive,Gramercy Park,10:00,20:00,5,TRUE
+164,natoque penatibus et,French,Medium,Tudor City,10:00,20:00,3,TRUE
+165,molestie hendrerit at,American,Expensive,Roosevelt Island,10:00,20:00,4,FALSE
+166,facilisi cras,Mexican,Expensive,SoHo,10:00,20:00,4,TRUE
+167,a,Korean,Cheap,Upper East Side,10:00,20:00,4,TRUE
+168,arcu adipiscing molestie hendrerit,French,Cheap,Hell's Kitchen,10:00,20:00,3,TRUE
+169,venenatis non,Korean,Cheap,Harlem,10:00,20:00,2,FALSE
+170,sed,Thai,Cheap,SoHo,10:00,20:00,1,FALSE
+171,in porttitor pede justo,Italian,Cheap,Gramercy Park,10:00,20:00,2,FALSE
+172,ac enim in tempor,Italian,Expensive,Flatiron District,10:00,20:00,4,TRUE
+173,lectus,Indian,Medium,Washington Heights,10:00,20:00,3,FALSE
+174,mus etiam,French,Medium,Financial District,10:00,20:00,3,FALSE
+175,sed accumsan felis,Vietnamese,Medium,East Village,10:00,20:00,1,FALSE
+176,bibendum morbi non quam,Vietnamese,Cheap,Tudor City,10:00,20:00,5,FALSE
+177,augue a suscipit,Italian,Expensive,Turtle Bay,10:00,20:00,1,TRUE
+178,lectus vestibulum,American,Medium,Inwood,10:00,20:00,1,TRUE
+179,justo sollicitudin ut suscipit,Mexican,Medium,NoHo,10:00,20:00,3,FALSE
+180,at feugiat,American,Expensive,Upper West Side,10:00,20:00,1,FALSE
+181,eget,Indian,Medium,Nolita,10:00,20:00,3,FALSE
+182,ipsum primis in faucibus,Italian,Expensive,SoHo,10:00,20:00,4,FALSE
+183,phasellus in felis donec,Mexican,Expensive,Sutton Place,10:00,20:00,5,TRUE
+184,urna ut tellus nulla,Spanish,Medium,Lenox Hill,10:00,20:00,5,FALSE
+185,orci luctus et ultrices,Mexican,Cheap,Inwood,10:00,20:00,1,FALSE
+186,sapien ut nunc,American,Cheap,Harlem,10:00,20:00,5,FALSE
+187,pellentesque volutpat,Korean,Medium,Morningside Heights,10:00,20:00,2,FALSE
+188,venenatis lacinia,Chinese,Medium,NoHo,10:00,20:00,1,FALSE
+189,eget congue,Italian,Expensive,Chinatown,10:00,20:00,3,FALSE
+190,sagittis dui vel nisl,French,Medium,Stuyvesant Town,10:00,20:00,2,FALSE
+191,vitae,Thai,Cheap,Tribeca,10:00,20:00,2,TRUE
+192,duis bibendum felis,Japanese,Expensive,Morningside Heights,10:00,20:00,1,TRUE
+193,odio cras,Japanese,Medium,Upper West Side,10:00,20:00,1,FALSE
+194,orci,Vietnamese,Expensive,Kips Bay,10:00,20:00,1,FALSE
+195,non mi integer ac,Middle Eastern,Medium,Nolita,10:00,20:00,4,FALSE
+196,arcu sed,Chinese,Cheap,West Village,10:00,20:00,2,TRUE
+197,eget semper rutrum nulla,Italian,Medium,NoHo,10:00,20:00,5,TRUE
+198,leo pellentesque ultrices mattis,Spanish,Medium,Meatpacking District,10:00,20:00,1,TRUE
+199,sapien a libero,Korean,Cheap,Roosevelt Island,10:00,20:00,2,TRUE
+200,blandit lacinia erat,Mexican,Medium,Harlem,10:00,20:00,1,FALSE
+201,integer non velit,Korean,Cheap,Tribeca,10:00,20:00,2,FALSE
+202,venenatis lacinia aenean sit,Korean,Cheap,Chelsea,10:00,20:00,3,TRUE
+203,ligula suspendisse ornare consequat,Spanish,Expensive,SoHo,10:00,20:00,5,TRUE
+204,et,Japanese,Expensive,SoHo,10:00,20:00,2,FALSE
+205,nulla,Japanese,Expensive,Hell's Kitchen,10:00,20:00,2,FALSE
+206,leo maecenas,Mexican,Medium,Meatpacking District,10:00,20:00,3,TRUE
+207,non mauris,Middle Eastern,Medium,Yorkville,10:00,20:00,5,FALSE
+208,vel augue vestibulum rutrum,American,Expensive,Yorkville,10:00,20:00,4,TRUE
+209,augue quam sollicitudin,Korean,Cheap,NoHo,10:00,20:00,4,TRUE
+210,volutpat eleifend,Japanese,Cheap,Financial District,10:00,20:00,3,FALSE
+211,tincidunt nulla mollis molestie,Indian,Cheap,Washington Heights,10:00,20:00,2,TRUE
+212,velit vivamus vel,Chinese,Medium,Greenwich Village,10:00,20:00,5,TRUE
+213,orci pede,Spanish,Medium,Lenox Hill,10:00,20:00,1,FALSE
+214,turpis nec euismod,American,Expensive,Turtle Bay,10:00,20:00,4,TRUE
+215,leo maecenas pulvinar,Mexican,Cheap,Washington Heights,10:00,20:00,2,FALSE
+216,sed,American,Cheap,Meatpacking District,10:00,20:00,5,FALSE
+217,imperdiet sapien urna pretium,Spanish,Medium,Chinatown,10:00,20:00,3,FALSE
+218,in quam,Vietnamese,Medium,Kips Bay,10:00,20:00,5,FALSE
+219,in felis,Japanese,Cheap,Yorkville,10:00,20:00,3,FALSE
+220,nulla eget,Korean,Cheap,Lincoln Square,10:00,20:00,1,TRUE
+221,montes nascetur ridiculus,Korean,Expensive,Kips Bay,10:00,20:00,1,FALSE
+222,nibh in hac,Italian,Expensive,East Village,10:00,20:00,4,TRUE
+223,nisi volutpat,Thai,Medium,Tribeca,10:00,20:00,5,FALSE
+224,nibh ligula,Korean,Expensive,Harlem,10:00,20:00,2,TRUE
+225,at,Korean,Cheap,Lower East Side,10:00,20:00,2,TRUE
+226,est et tempus semper,Mexican,Expensive,Hell's Kitchen,10:00,20:00,1,FALSE
+227,pellentesque ultrices mattis odio,Spanish,Expensive,NoHo,10:00,20:00,3,FALSE
+228,suscipit,Vietnamese,Medium,Upper West Side,10:00,20:00,2,FALSE
+229,justo aliquam quis turpis,Mexican,Cheap,Murray Hill,10:00,20:00,3,TRUE
+230,leo,American,Medium,Lincoln Square,10:00,20:00,5,FALSE
+231,mauris eget massa,French,Medium,Kips Bay,10:00,20:00,1,FALSE
+232,cubilia curae,Middle Eastern,Medium,Tribeca,10:00,20:00,4,TRUE
+233,velit nec nisi,Korean,Expensive,NoHo,10:00,20:00,2,TRUE
+234,aliquet,Spanish,Medium,Morningside Heights,10:00,20:00,4,TRUE
+235,metus,Thai,Medium,Chinatown,10:00,20:00,2,FALSE
+236,blandit ultrices enim,French,Cheap,Tribeca,10:00,20:00,2,TRUE
+237,id turpis,Italian,Expensive,Little Italy,10:00,20:00,2,TRUE
+238,blandit nam,Thai,Medium,Lenox Hill,10:00,20:00,1,TRUE
+239,tristique,French,Cheap,Upper East Side,10:00,20:00,1,TRUE
+240,suscipit nulla elit ac,Middle Eastern,Cheap,Battery Park City,10:00,20:00,5,FALSE
+241,libero,Mexican,Medium,Inwood,10:00,20:00,1,TRUE
+242,proin,Mexican,Cheap,Washington Heights,10:00,20:00,3,FALSE
+243,semper,Middle Eastern,Cheap,Gramercy Park,10:00,20:00,4,TRUE
+244,quis,Japanese,Expensive,NoHo,10:00,20:00,4,FALSE
+245,vestibulum sed magna,Thai,Medium,SoHo,10:00,20:00,5,TRUE
+246,luctus rutrum nulla,Thai,Medium,Hell's Kitchen,10:00,20:00,4,TRUE
+247,vitae mattis nibh,Vietnamese,Expensive,East Village,10:00,20:00,1,TRUE
+248,posuere metus vitae ipsum,Indian,Expensive,Yorkville,10:00,20:00,5,FALSE
+249,dui maecenas,Indian,Cheap,Stuyvesant Town,10:00,20:00,5,FALSE
+250,ultrices posuere,Spanish,Expensive,Nolita,10:00,20:00,1,TRUE
+251,pulvinar nulla,Vietnamese,Medium,Tudor City,10:00,20:00,4,TRUE
+252,sapien iaculis congue,Thai,Medium,Murray Hill,10:00,20:00,5,TRUE
+253,ac tellus semper,Mexican,Expensive,Murray Hill,10:00,20:00,2,TRUE
+254,turpis a,Spanish,Medium,Harlem,10:00,20:00,3,FALSE
+255,augue vestibulum rutrum rutrum,Middle Eastern,Expensive,Meatpacking District,10:00,20:00,2,TRUE
+256,ac consequat metus sapien,Indian,Expensive,Gramercy Park,10:00,20:00,3,TRUE
+257,lacus,Korean,Medium,Yorkville,10:00,20:00,4,TRUE
+258,id ligula suspendisse,Middle Eastern,Medium,Chinatown,10:00,20:00,3,FALSE
+259,lacus morbi,Korean,Expensive,Kips Bay,10:00,20:00,3,TRUE
+260,id lobortis,Chinese,Cheap,Lincoln Square,10:00,20:00,4,FALSE
+261,nunc proin,Chinese,Cheap,Murray Hill,10:00,20:00,4,FALSE
+262,mus vivamus vestibulum,Thai,Medium,Inwood,10:00,20:00,1,TRUE
+263,leo maecenas pulvinar lobortis,French,Expensive,Chelsea,10:00,20:00,2,TRUE
+264,in tempus sit,French,Expensive,Murray Hill,10:00,20:00,1,FALSE
+265,tincidunt in leo maecenas,Mexican,Cheap,Flatiron District,10:00,20:00,5,TRUE
+266,dui vel nisl duis,Chinese,Expensive,Meatpacking District,10:00,20:00,1,FALSE
+267,curae,Chinese,Medium,Kips Bay,10:00,20:00,2,TRUE
+268,luctus et,Chinese,Medium,Battery Park City,10:00,20:00,3,FALSE
+269,sagittis dui,Korean,Expensive,Nolita,10:00,20:00,3,TRUE
+270,magna bibendum imperdiet nullam,Japanese,Medium,Midtown,10:00,20:00,4,FALSE
+271,erat,Italian,Expensive,Hell's Kitchen,10:00,20:00,3,FALSE
+272,justo eu,Vietnamese,Cheap,Lower East Side,10:00,20:00,2,FALSE
+273,suspendisse accumsan,Middle Eastern,Cheap,Sutton Place,10:00,20:00,3,TRUE
+274,nulla eget eros,Spanish,Cheap,Upper West Side,10:00,20:00,3,FALSE
+275,congue,Korean,Medium,Meatpacking District,10:00,20:00,4,TRUE
+276,pede morbi porttitor lorem,American,Expensive,Little Italy,10:00,20:00,3,TRUE
+277,nulla dapibus,Italian,Cheap,NoHo,10:00,20:00,3,TRUE
+278,ac nibh fusce,American,Expensive,Upper West Side,10:00,20:00,1,TRUE
+279,ultrices posuere,Indian,Expensive,Yorkville,10:00,20:00,1,FALSE
+280,habitasse platea,French,Cheap,Lincoln Square,10:00,20:00,4,FALSE
+281,vestibulum ante ipsum,Spanish,Medium,Hell's Kitchen,10:00,20:00,2,FALSE
+282,lorem ipsum dolor,American,Cheap,Upper West Side,10:00,20:00,1,TRUE
+283,sapien quis,Indian,Cheap,Harlem,10:00,20:00,1,FALSE
+284,augue a suscipit,French,Medium,NoHo,10:00,20:00,3,TRUE
+285,sapien cum sociis,Mexican,Cheap,Washington Heights,10:00,20:00,2,TRUE
+286,nec,Italian,Cheap,SoHo,10:00,20:00,5,FALSE
+287,sem duis aliquam,Japanese,Cheap,Washington Heights,10:00,20:00,4,TRUE
+288,a ipsum,Indian,Expensive,Greenwich Village,10:00,20:00,3,FALSE
+289,praesent lectus vestibulum,French,Expensive,Murray Hill,10:00,20:00,5,FALSE
+290,hac habitasse,Korean,Medium,Flatiron District,10:00,20:00,2,TRUE
+291,in eleifend quam a,Italian,Medium,Roosevelt Island,10:00,20:00,5,FALSE
+292,diam id,Japanese,Medium,West Village,10:00,20:00,4,FALSE
+293,parturient,Chinese,Medium,Tudor City,10:00,20:00,1,FALSE
+294,nulla dapibus dolor,French,Cheap,Tudor City,10:00,20:00,4,FALSE
+295,non ligula pellentesque ultrices,Mexican,Medium,Nolita,10:00,20:00,3,FALSE
+296,justo,Mexican,Cheap,Tribeca,10:00,20:00,2,TRUE
+297,cursus urna,Spanish,Medium,West Village,10:00,20:00,5,FALSE
+298,diam,Thai,Medium,Nolita,10:00,20:00,1,FALSE
+299,tempus sit amet sem,Middle Eastern,Medium,Financial District,10:00,20:00,2,FALSE
+300,ultricies eu nibh quisque,French,Cheap,Gramercy Park,10:00,20:00,4,FALSE
+301,elit sodales scelerisque,French,Expensive,Tribeca,10:00,20:00,5,TRUE
+302,semper,French,Cheap,West Village,10:00,20:00,4,FALSE
+303,eleifend pede libero,French,Cheap,Harlem,10:00,20:00,5,FALSE
+304,in faucibus orci luctus,American,Medium,Meatpacking District,10:00,20:00,5,FALSE
+305,tempor turpis nec,Italian,Medium,Lenox Hill,10:00,20:00,4,FALSE
+306,enim,Korean,Cheap,Lenox Hill,10:00,20:00,3,TRUE
+307,donec vitae nisi,Mexican,Cheap,Little Italy,10:00,20:00,4,TRUE
+308,felis sed lacus,Vietnamese,Expensive,Morningside Heights,10:00,20:00,5,FALSE
+309,odio odio,Middle Eastern,Cheap,Midtown,10:00,20:00,4,FALSE
+310,nibh in lectus pellentesque,Spanish,Cheap,Chinatown,10:00,20:00,1,FALSE
+311,vel sem,Italian,Cheap,Gramercy Park,10:00,20:00,2,TRUE
+312,quam turpis,Spanish,Expensive,Lenox Hill,10:00,20:00,2,TRUE
+313,quam,Middle Eastern,Medium,Inwood,10:00,20:00,3,FALSE
+314,cubilia curae,Indian,Cheap,Lower East Side,10:00,20:00,1,FALSE
+315,lacus curabitur at,Mexican,Expensive,Morningside Heights,10:00,20:00,4,FALSE
+316,in,Japanese,Cheap,Tudor City,10:00,20:00,4,TRUE
+317,consectetuer eget rutrum,American,Medium,SoHo,10:00,20:00,1,TRUE
+318,quis lectus suspendisse potenti,Chinese,Medium,Gramercy Park,10:00,20:00,5,TRUE
+319,rhoncus,Vietnamese,Expensive,SoHo,10:00,20:00,5,FALSE
+320,justo,American,Medium,Murray Hill,10:00,20:00,2,FALSE
+321,proin leo,Japanese,Medium,East Village,10:00,20:00,5,FALSE
+322,convallis morbi,Japanese,Expensive,Sutton Place,10:00,20:00,2,TRUE
+323,id,French,Medium,Financial District,10:00,20:00,2,TRUE
+324,a odio,Spanish,Expensive,Tudor City,10:00,20:00,1,FALSE
+325,tempus vel pede,Thai,Cheap,Flatiron District,10:00,20:00,1,FALSE
+326,nulla,Chinese,Expensive,Murray Hill,10:00,20:00,5,TRUE
+327,posuere metus vitae,Middle Eastern,Expensive,NoHo,10:00,20:00,5,FALSE
+328,nullam molestie,Mexican,Medium,Upper West Side,10:00,20:00,4,FALSE
+329,quam a odio,Thai,Medium,SoHo,10:00,20:00,1,FALSE
+330,metus arcu adipiscing,Vietnamese,Expensive,Kips Bay,10:00,20:00,4,TRUE
+331,consectetuer adipiscing elit proin,Mexican,Expensive,Gramercy Park,10:00,20:00,2,FALSE
+332,ridiculus mus,Japanese,Cheap,Lower East Side,10:00,20:00,3,FALSE
+333,enim leo rhoncus sed,Spanish,Cheap,Battery Park City,10:00,20:00,1,FALSE
+334,sit amet,American,Cheap,Gramercy Park,10:00,20:00,2,FALSE
+335,ultricies eu nibh quisque,Chinese,Expensive,Chinatown,10:00,20:00,3,FALSE
+336,quam turpis adipiscing,French,Medium,Chelsea,10:00,20:00,5,TRUE
+337,pede,American,Medium,Roosevelt Island,10:00,20:00,1,FALSE
+338,integer a,American,Medium,Little Italy,10:00,20:00,1,TRUE
+339,pede lobortis ligula sit,Korean,Medium,Flatiron District,10:00,20:00,2,TRUE
+340,molestie sed justo pellentesque,Japanese,Medium,Sutton Place,10:00,20:00,2,FALSE
+341,praesent lectus vestibulum quam,Chinese,Medium,Hell's Kitchen,10:00,20:00,5,TRUE
+342,rutrum,American,Expensive,Upper East Side,10:00,20:00,2,TRUE
+343,non velit nec nisi,Mexican,Medium,Little Italy,10:00,20:00,1,FALSE
+344,sit amet consectetuer,Italian,Cheap,Lincoln Square,10:00,20:00,5,FALSE
+345,et ultrices posuere cubilia,French,Expensive,East Village,10:00,20:00,4,FALSE
+346,eget elit sodales,Thai,Medium,Yorkville,10:00,20:00,2,FALSE
+347,at ipsum,Japanese,Cheap,Roosevelt Island,10:00,20:00,2,TRUE
+348,quam pharetra magna ac,Vietnamese,Cheap,Midtown,10:00,20:00,3,TRUE
+349,cubilia curae donec,French,Medium,Meatpacking District,10:00,20:00,2,FALSE
+350,nibh,Korean,Cheap,Tudor City,10:00,20:00,4,TRUE
+351,semper interdum mauris ullamcorper,Italian,Expensive,Morningside Heights,10:00,20:00,5,TRUE
+352,quam sollicitudin vitae,American,Cheap,Kips Bay,10:00,20:00,5,FALSE
+353,accumsan tellus,American,Medium,Morningside Heights,10:00,20:00,3,FALSE
+354,vestibulum sagittis sapien,Korean,Cheap,Sutton Place,10:00,20:00,1,FALSE
+355,elit ac nulla sed,Thai,Cheap,Chelsea,10:00,20:00,4,TRUE
+356,sem sed sagittis,Vietnamese,Cheap,Flatiron District,10:00,20:00,2,TRUE
+357,luctus cum sociis,Vietnamese,Medium,Midtown,10:00,20:00,2,TRUE
+358,venenatis,Spanish,Expensive,Greenwich Village,10:00,20:00,3,FALSE
+359,posuere,Italian,Expensive,Chelsea,10:00,20:00,1,TRUE
+360,ut nunc vestibulum,French,Expensive,Yorkville,10:00,20:00,4,TRUE
+361,non mi integer ac,Spanish,Medium,Tribeca,10:00,20:00,5,TRUE
+362,in quis justo,French,Medium,East Village,10:00,20:00,2,FALSE
+363,in lacus curabitur at,Vietnamese,Cheap,Sutton Place,10:00,20:00,3,FALSE
+364,curabitur,Japanese,Cheap,Stuyvesant Town,10:00,20:00,4,TRUE
+365,curabitur,American,Expensive,Murray Hill,10:00,20:00,4,FALSE
+366,nam,French,Cheap,Roosevelt Island,10:00,20:00,3,FALSE
+367,suscipit ligula,American,Expensive,Little Italy,10:00,20:00,4,FALSE
+368,nulla dapibus dolor vel,Middle Eastern,Cheap,West Village,10:00,20:00,2,FALSE
+369,ultrices,Indian,Medium,Lenox Hill,10:00,20:00,4,FALSE
+370,vivamus,Indian,Medium,Lower East Side,10:00,20:00,5,TRUE
+371,id sapien,Spanish,Expensive,SoHo,10:00,20:00,5,FALSE
+372,congue,Korean,Cheap,Tribeca,10:00,20:00,2,FALSE
+373,augue quam,Korean,Expensive,Flatiron District,10:00,20:00,1,FALSE
+374,platea dictumst,Middle Eastern,Medium,Upper West Side,10:00,20:00,5,TRUE
+375,curae nulla dapibus dolor,Korean,Medium,Hell's Kitchen,10:00,20:00,3,TRUE
+376,amet justo morbi,Mexican,Medium,Nolita,10:00,20:00,1,TRUE
+377,justo,Indian,Expensive,Chinatown,10:00,20:00,5,FALSE
+378,felis fusce posuere felis,Middle Eastern,Cheap,Roosevelt Island,10:00,20:00,2,TRUE
+379,enim blandit mi,Japanese,Cheap,Yorkville,10:00,20:00,5,TRUE
+380,nisl venenatis lacinia aenean,Thai,Cheap,Lenox Hill,10:00,20:00,1,FALSE
+381,ac diam,French,Expensive,Murray Hill,10:00,20:00,3,FALSE
+382,fermentum justo nec,Indian,Expensive,Greenwich Village,10:00,20:00,4,TRUE
+383,in hac habitasse platea,Thai,Medium,Roosevelt Island,10:00,20:00,5,FALSE
+384,velit eu,Thai,Cheap,NoHo,10:00,20:00,1,TRUE
+385,vulputate vitae,Chinese,Cheap,East Village,10:00,20:00,3,TRUE
+386,lobortis est,Korean,Medium,Murray Hill,10:00,20:00,4,FALSE
+387,dapibus duis at velit,Thai,Cheap,Washington Heights,10:00,20:00,2,TRUE
+388,volutpat convallis morbi odio,Italian,Cheap,Murray Hill,10:00,20:00,4,FALSE
+389,pretium iaculis diam erat,Spanish,Cheap,Upper West Side,10:00,20:00,2,FALSE
+390,eleifend luctus ultricies eu,Italian,Cheap,Midtown,10:00,20:00,4,TRUE
+391,nulla nunc,American,Expensive,Battery Park City,10:00,20:00,2,TRUE
+392,justo,Thai,Cheap,Washington Heights,10:00,20:00,1,TRUE
+393,in quam fringilla rhoncus,Vietnamese,Medium,Tribeca,10:00,20:00,1,TRUE
+394,justo in,Mexican,Medium,Lower East Side,10:00,20:00,4,FALSE
+395,velit donec,French,Expensive,SoHo,10:00,20:00,5,TRUE
+396,ultrices vel,Indian,Cheap,Hell's Kitchen,10:00,20:00,2,FALSE
+397,cras pellentesque volutpat dui,American,Medium,Nolita,10:00,20:00,2,FALSE
+398,in porttitor,Middle Eastern,Medium,Battery Park City,10:00,20:00,2,TRUE
+399,leo odio condimentum,Italian,Cheap,Sutton Place,10:00,20:00,1,FALSE
+400,varius nulla facilisi,Thai,Cheap,Lower East Side,10:00,20:00,1,FALSE
+401,morbi,Indian,Cheap,Upper West Side,10:00,20:00,1,FALSE
+402,ligula sit amet eleifend,Korean,Cheap,Little Italy,10:00,20:00,3,TRUE
+403,hac,Korean,Medium,Battery Park City,10:00,20:00,1,FALSE
+404,maecenas leo odio condimentum,Indian,Medium,Roosevelt Island,10:00,20:00,4,FALSE
+405,curae,Korean,Expensive,Inwood,10:00,20:00,5,FALSE
+406,fusce consequat nulla,Mexican,Medium,SoHo,10:00,20:00,2,TRUE
+407,nulla,Chinese,Cheap,Roosevelt Island,10:00,20:00,3,TRUE
+408,est risus auctor,Middle Eastern,Cheap,Tudor City,10:00,20:00,5,TRUE
+409,lorem,Chinese,Medium,Kips Bay,10:00,20:00,5,FALSE
+410,volutpat erat quisque erat,Thai,Cheap,Upper West Side,10:00,20:00,1,FALSE
+411,lobortis convallis,French,Cheap,Yorkville,10:00,20:00,2,TRUE
+412,ac,Korean,Medium,Tudor City,10:00,20:00,5,TRUE
+413,at,French,Medium,Yorkville,10:00,20:00,5,TRUE
+414,curae donec pharetra,Japanese,Cheap,Upper East Side,10:00,20:00,1,FALSE
+415,tristique tortor,French,Cheap,Lenox Hill,10:00,20:00,5,FALSE
+416,sapien,Mexican,Medium,Flatiron District,10:00,20:00,3,FALSE
+417,convallis,Italian,Medium,Greenwich Village,10:00,20:00,3,FALSE
+418,ultrices enim lorem,French,Medium,Sutton Place,10:00,20:00,1,FALSE
+419,nullam,Korean,Medium,Battery Park City,10:00,20:00,3,TRUE
+420,nec sem duis aliquam,Spanish,Medium,Roosevelt Island,10:00,20:00,3,FALSE
+421,blandit mi in,Thai,Cheap,Harlem,10:00,20:00,4,FALSE
+422,turpis a pede posuere,American,Medium,Yorkville,10:00,20:00,4,TRUE
+423,tortor duis mattis egestas,Korean,Expensive,Midtown,10:00,20:00,2,FALSE
+424,risus dapibus augue vel,Vietnamese,Cheap,Upper West Side,10:00,20:00,5,FALSE
+425,pede morbi porttitor lorem,Japanese,Cheap,Gramercy Park,10:00,20:00,4,FALSE
+426,erat id,Middle Eastern,Cheap,Tudor City,10:00,20:00,5,FALSE
+427,etiam faucibus,Vietnamese,Expensive,Hell's Kitchen,10:00,20:00,3,TRUE
+428,id justo,Spanish,Expensive,SoHo,10:00,20:00,1,TRUE
+429,justo sit amet sapien,Vietnamese,Expensive,Lower East Side,10:00,20:00,4,FALSE
+430,sed ante vivamus tortor,French,Cheap,Harlem,10:00,20:00,1,FALSE
+431,sed vestibulum,Mexican,Cheap,Midtown,10:00,20:00,2,FALSE
+432,aenean,Korean,Cheap,Stuyvesant Town,10:00,20:00,4,FALSE
+433,mi sit amet,Chinese,Cheap,Tudor City,10:00,20:00,4,FALSE
+434,justo morbi,Thai,Medium,Inwood,10:00,20:00,2,TRUE
+435,natoque penatibus et,Japanese,Cheap,Gramercy Park,10:00,20:00,5,TRUE
+436,elementum eu,Middle Eastern,Cheap,Kips Bay,10:00,20:00,2,TRUE
+437,arcu sed,Indian,Expensive,East Village,10:00,20:00,1,TRUE
+438,in felis donec semper,Middle Eastern,Expensive,Lenox Hill,10:00,20:00,3,FALSE
+439,ipsum,Indian,Medium,Harlem,10:00,20:00,5,TRUE
+440,magnis dis parturient montes,Middle Eastern,Expensive,Sutton Place,10:00,20:00,1,FALSE
+441,ut,Italian,Expensive,Upper West Side,10:00,20:00,2,TRUE
+442,cras pellentesque volutpat,Japanese,Expensive,Battery Park City,10:00,20:00,3,FALSE
+443,fermentum justo nec condimentum,Thai,Cheap,Kips Bay,10:00,20:00,4,TRUE
+444,nec molestie,Italian,Medium,Sutton Place,10:00,20:00,5,TRUE
+445,dapibus duis at velit,French,Medium,Little Italy,10:00,20:00,5,FALSE
+446,ut,Thai,Expensive,Washington Heights,10:00,20:00,5,TRUE
+447,vestibulum,Vietnamese,Cheap,West Village,10:00,20:00,5,FALSE
+448,at,Italian,Expensive,Meatpacking District,10:00,20:00,4,TRUE
+449,leo pellentesque ultrices,Japanese,Cheap,Midtown,10:00,20:00,3,TRUE
+450,nam tristique tortor eu,Mexican,Cheap,Murray Hill,10:00,20:00,1,FALSE
+451,metus aenean fermentum,Italian,Cheap,Murray Hill,10:00,20:00,2,TRUE
+452,amet eleifend,Mexican,Expensive,Chelsea,10:00,20:00,2,TRUE
+453,in hac habitasse platea,Vietnamese,Medium,Upper West Side,10:00,20:00,2,TRUE
+454,convallis nulla neque libero,Italian,Cheap,Yorkville,10:00,20:00,1,TRUE
+455,feugiat non,Japanese,Cheap,Midtown,10:00,20:00,5,FALSE
+456,integer ac leo pellentesque,Indian,Expensive,Gramercy Park,10:00,20:00,2,FALSE
+457,quis libero,French,Cheap,Roosevelt Island,10:00,20:00,1,FALSE
+458,risus praesent lectus vestibulum,American,Expensive,Upper East Side,10:00,20:00,1,FALSE
+459,ultrices,Thai,Cheap,Chelsea,10:00,20:00,3,FALSE
+460,vitae nisl aenean lectus,French,Expensive,Battery Park City,10:00,20:00,5,TRUE
+461,id consequat in consequat,Chinese,Cheap,Morningside Heights,10:00,20:00,4,TRUE
+462,quam pede lobortis ligula,Thai,Expensive,Lincoln Square,10:00,20:00,4,TRUE
+463,morbi,Thai,Expensive,Tudor City,10:00,20:00,2,FALSE
+464,id mauris,Indian,Expensive,Washington Heights,10:00,20:00,3,TRUE
+465,porttitor pede justo,American,Cheap,Kips Bay,10:00,20:00,4,TRUE
+466,facilisi,Chinese,Cheap,Roosevelt Island,10:00,20:00,5,TRUE
+467,magna,Mexican,Expensive,Lincoln Square,10:00,20:00,2,TRUE
+468,penatibus et magnis dis,Mexican,Cheap,Morningside Heights,10:00,20:00,5,FALSE
+469,nisi at nibh,Korean,Cheap,Midtown,10:00,20:00,2,TRUE
+470,faucibus,French,Expensive,Harlem,10:00,20:00,5,FALSE
+471,sapien cursus,Chinese,Medium,Sutton Place,10:00,20:00,5,FALSE
+472,nisl nunc rhoncus dui,American,Expensive,Tribeca,10:00,20:00,5,TRUE
+473,augue vel accumsan,Italian,Medium,Chinatown,10:00,20:00,1,TRUE
+474,mattis odio donec,Mexican,Medium,SoHo,10:00,20:00,3,FALSE
+475,nonummy maecenas tincidunt,American,Cheap,Upper West Side,10:00,20:00,5,TRUE
+476,sem duis aliquam,Italian,Cheap,SoHo,10:00,20:00,4,TRUE
+477,et commodo vulputate,Thai,Medium,Tribeca,10:00,20:00,1,FALSE
+478,fermentum donec ut mauris,American,Medium,Washington Heights,10:00,20:00,3,TRUE
+479,mollis molestie lorem quisque,French,Medium,Meatpacking District,10:00,20:00,3,FALSE
+480,id consequat in,Chinese,Cheap,Little Italy,10:00,20:00,4,TRUE
+481,augue a,Spanish,Cheap,Kips Bay,10:00,20:00,4,FALSE
+482,luctus et,Thai,Medium,Inwood,10:00,20:00,2,TRUE
+483,faucibus,Korean,Medium,Roosevelt Island,10:00,20:00,5,TRUE
+484,dui vel nisl duis,Middle Eastern,Medium,Lenox Hill,10:00,20:00,2,TRUE
+485,id mauris vulputate,Spanish,Cheap,Washington Heights,10:00,20:00,2,FALSE
+486,non,American,Cheap,Murray Hill,10:00,20:00,1,TRUE
+487,dui proin leo odio,Italian,Cheap,West Village,10:00,20:00,2,FALSE
+488,donec ut mauris,Spanish,Expensive,Financial District,10:00,20:00,2,FALSE
+489,lacus,Middle Eastern,Medium,Turtle Bay,10:00,20:00,4,FALSE
+490,quisque id justo,Vietnamese,Cheap,Yorkville,10:00,20:00,3,TRUE
+491,lectus,American,Cheap,Turtle Bay,10:00,20:00,2,TRUE
+492,interdum mauris ullamcorper,Japanese,Cheap,Midtown,10:00,20:00,4,TRUE
+493,in tempus sit amet,Vietnamese,Cheap,Lower East Side,10:00,20:00,1,TRUE
+494,tincidunt nulla,Chinese,Cheap,Sutton Place,10:00,20:00,5,TRUE
+495,ligula vehicula,Japanese,Cheap,Tribeca,10:00,20:00,3,FALSE
+496,vulputate ut ultrices,Korean,Cheap,Midtown,10:00,20:00,3,TRUE
+497,ultrices,American,Cheap,West Village,10:00,20:00,5,FALSE
+498,non,Spanish,Expensive,Nolita,10:00,20:00,4,TRUE
+499,pellentesque,French,Medium,Stuyvesant Town,10:00,20:00,4,FALSE
+500,odio odio,Spanish,Medium,Sutton Place,10:00,20:00,3,FALSE
+501,nascetur ridiculus mus vivamus,Korean,Medium,Harlem,10:00,20:00,1,TRUE
+502,vulputate ut ultrices vel,Mexican,Medium,Chelsea,10:00,20:00,1,TRUE
+503,orci,Italian,Expensive,Chinatown,10:00,20:00,4,FALSE
+504,magna,Korean,Cheap,Little Italy,10:00,20:00,1,FALSE
+505,in lacus,French,Cheap,Flatiron District,10:00,20:00,2,TRUE
+506,id turpis integer aliquet,Korean,Medium,Little Italy,10:00,20:00,5,TRUE
+507,maecenas tincidunt lacus at,Chinese,Cheap,Meatpacking District,10:00,20:00,5,TRUE
+508,pede justo,Thai,Medium,Chinatown,10:00,20:00,2,FALSE
+509,at turpis,Spanish,Cheap,Gramercy Park,10:00,20:00,4,FALSE
+510,vel enim,Japanese,Cheap,Lenox Hill,10:00,20:00,5,TRUE
+511,ultrices mattis,Spanish,Expensive,Chelsea,10:00,20:00,2,FALSE
+512,luctus et ultrices,Middle Eastern,Expensive,Nolita,10:00,20:00,4,FALSE
+513,odio consequat varius integer,Indian,Cheap,Chelsea,10:00,20:00,5,TRUE
+514,ut,Indian,Medium,Yorkville,10:00,20:00,1,FALSE
+515,magna,American,Cheap,Little Italy,10:00,20:00,1,TRUE
+516,eu orci mauris lacinia,Spanish,Medium,Greenwich Village,10:00,20:00,4,FALSE
+517,in,Mexican,Cheap,Kips Bay,10:00,20:00,3,TRUE
+518,leo,Spanish,Cheap,Stuyvesant Town,10:00,20:00,1,TRUE
+519,nullam,Middle Eastern,Medium,Turtle Bay,10:00,20:00,5,TRUE
+520,diam neque vestibulum eget,Thai,Expensive,East Village,10:00,20:00,3,TRUE
+521,eu est congue elementum,Chinese,Medium,Lenox Hill,10:00,20:00,4,FALSE
+522,lectus suspendisse,American,Expensive,Stuyvesant Town,10:00,20:00,3,FALSE
+523,vitae mattis,Spanish,Cheap,Stuyvesant Town,10:00,20:00,4,FALSE
+524,adipiscing lorem vitae mattis,Mexican,Expensive,Little Italy,10:00,20:00,1,FALSE
+525,maecenas ut massa,Japanese,Expensive,Morningside Heights,10:00,20:00,2,TRUE
+526,faucibus orci luctus,Chinese,Medium,Tudor City,10:00,20:00,4,FALSE
+527,amet consectetuer adipiscing elit,French,Expensive,Flatiron District,10:00,20:00,2,TRUE
+528,luctus et,Italian,Medium,Midtown,10:00,20:00,4,FALSE
+529,arcu,Spanish,Medium,Lower East Side,10:00,20:00,2,TRUE
+530,lobortis est phasellus sit,Chinese,Expensive,Lower East Side,10:00,20:00,2,TRUE
+531,porttitor lorem id ligula,Japanese,Cheap,Kips Bay,10:00,20:00,2,TRUE
+532,justo sit amet sapien,Mexican,Medium,Murray Hill,10:00,20:00,2,FALSE
+533,sed lacus,American,Expensive,Turtle Bay,10:00,20:00,5,TRUE
+534,orci pede venenatis non,American,Cheap,Kips Bay,10:00,20:00,3,FALSE
+535,scelerisque,Italian,Cheap,Battery Park City,10:00,20:00,1,TRUE
+536,fringilla rhoncus,Vietnamese,Expensive,Hell's Kitchen,10:00,20:00,3,TRUE
+537,libero non,Korean,Cheap,Tudor City,10:00,20:00,4,TRUE
+538,aliquet massa,Indian,Expensive,Yorkville,10:00,20:00,2,TRUE
+539,massa donec,American,Cheap,Washington Heights,10:00,20:00,4,TRUE
+540,habitasse platea dictumst,American,Cheap,Upper East Side,10:00,20:00,4,TRUE
+541,fusce,Mexican,Expensive,Nolita,10:00,20:00,2,TRUE
+542,ac consequat metus,Chinese,Medium,Murray Hill,10:00,20:00,2,FALSE
+543,imperdiet et commodo vulputate,American,Medium,Inwood,10:00,20:00,1,FALSE
+544,porta volutpat erat quisque,Thai,Cheap,Sutton Place,10:00,20:00,3,FALSE
+545,adipiscing elit,Mexican,Medium,Little Italy,10:00,20:00,4,TRUE
+546,nam,Chinese,Medium,Chelsea,10:00,20:00,3,TRUE
+547,nulla mollis,Spanish,Medium,Lenox Hill,10:00,20:00,5,FALSE
+548,rhoncus aliquam lacus,Italian,Expensive,Yorkville,10:00,20:00,2,TRUE
+549,turpis,Vietnamese,Cheap,West Village,10:00,20:00,1,FALSE
+550,imperdiet sapien urna pretium,Indian,Expensive,Sutton Place,10:00,20:00,3,TRUE
+551,sit amet,Vietnamese,Cheap,Chelsea,10:00,20:00,1,TRUE
+552,viverra,Thai,Expensive,Sutton Place,10:00,20:00,3,TRUE
+553,at nulla suspendisse potenti,Korean,Cheap,Harlem,10:00,20:00,3,FALSE
+554,eu tincidunt in,Vietnamese,Expensive,Battery Park City,10:00,20:00,4,FALSE
+555,varius,Japanese,Expensive,Battery Park City,10:00,20:00,1,FALSE
+556,mi nulla ac,Vietnamese,Medium,NoHo,10:00,20:00,4,FALSE
+557,at,French,Expensive,Nolita,10:00,20:00,3,TRUE
+558,lobortis convallis tortor risus,Spanish,Cheap,Inwood,10:00,20:00,3,TRUE
+559,pede venenatis non,Chinese,Expensive,Upper West Side,10:00,20:00,2,FALSE
+560,ut,Mexican,Expensive,Inwood,10:00,20:00,5,FALSE
+561,nulla ut erat id,Japanese,Expensive,Chelsea,10:00,20:00,5,TRUE
+562,sed interdum venenatis,Korean,Expensive,Nolita,10:00,20:00,4,TRUE
+563,donec posuere,Thai,Medium,Lenox Hill,10:00,20:00,5,TRUE
+564,ultrices erat tortor sollicitudin,French,Medium,Nolita,10:00,20:00,4,TRUE
+565,sit amet eros,Mexican,Cheap,Flatiron District,10:00,20:00,5,FALSE
+566,sapien urna,Chinese,Cheap,Greenwich Village,10:00,20:00,3,TRUE
+567,odio,Mexican,Expensive,Inwood,10:00,20:00,5,FALSE
+568,suspendisse accumsan,Thai,Cheap,Battery Park City,10:00,20:00,1,TRUE
+569,penatibus et,Indian,Medium,SoHo,10:00,20:00,5,FALSE
+570,curabitur at ipsum,Mexican,Cheap,Lower East Side,10:00,20:00,2,FALSE
+571,sollicitudin mi sit,Korean,Cheap,Upper East Side,10:00,20:00,1,FALSE
+572,sapien quis libero,Middle Eastern,Expensive,Chelsea,10:00,20:00,4,FALSE
+573,justo,Japanese,Medium,Chelsea,10:00,20:00,1,FALSE
+574,at diam nam tristique,Vietnamese,Cheap,Stuyvesant Town,10:00,20:00,4,TRUE
+575,congue eget semper,French,Cheap,West Village,10:00,20:00,2,TRUE
+576,sit amet justo,French,Expensive,Turtle Bay,10:00,20:00,5,TRUE
+577,velit vivamus vel nulla,Mexican,Medium,Meatpacking District,10:00,20:00,2,TRUE
+578,ridiculus,Korean,Medium,Murray Hill,10:00,20:00,1,FALSE
+579,ipsum primis,Middle Eastern,Medium,Roosevelt Island,10:00,20:00,3,TRUE
+580,eros vestibulum ac,Middle Eastern,Cheap,Upper West Side,10:00,20:00,5,TRUE
+581,in consequat ut nulla,Middle Eastern,Medium,Hell's Kitchen,10:00,20:00,2,FALSE
+582,nonummy integer non velit,Vietnamese,Medium,Greenwich Village,10:00,20:00,4,FALSE
+583,dignissim vestibulum,Middle Eastern,Expensive,Stuyvesant Town,10:00,20:00,5,TRUE
+584,in blandit ultrices,Vietnamese,Expensive,Stuyvesant Town,10:00,20:00,1,TRUE
+585,et ultrices posuere,Thai,Expensive,Lower East Side,10:00,20:00,1,TRUE
+586,libero rutrum ac lobortis,Indian,Cheap,Nolita,10:00,20:00,1,FALSE
+587,odio justo,Italian,Cheap,Lincoln Square,10:00,20:00,4,FALSE
+588,proin eu,Spanish,Expensive,Little Italy,10:00,20:00,3,FALSE
+589,et magnis dis,American,Expensive,Roosevelt Island,10:00,20:00,4,FALSE
+590,ante ipsum primis,American,Cheap,Murray Hill,10:00,20:00,1,TRUE
+591,erat curabitur,Middle Eastern,Expensive,Financial District,10:00,20:00,1,FALSE
+592,vel,Japanese,Expensive,Yorkville,10:00,20:00,3,TRUE
+593,nulla sed,Mexican,Cheap,Kips Bay,10:00,20:00,4,TRUE
+594,vel accumsan,Chinese,Medium,West Village,10:00,20:00,5,TRUE
+595,est,Japanese,Cheap,East Village,10:00,20:00,5,TRUE
+596,volutpat quam pede,Japanese,Medium,Murray Hill,10:00,20:00,5,FALSE
+597,lacus,Middle Eastern,Medium,Kips Bay,10:00,20:00,3,FALSE
+598,et magnis dis parturient,American,Expensive,Chelsea,10:00,20:00,1,FALSE
+599,ut massa volutpat convallis,American,Medium,Greenwich Village,10:00,20:00,1,TRUE
+600,curae donec,Italian,Medium,Lenox Hill,10:00,20:00,1,TRUE
+601,consequat metus,Thai,Expensive,Flatiron District,10:00,20:00,4,TRUE
+602,sapien cursus,Spanish,Expensive,Sutton Place,10:00,20:00,2,TRUE
+603,et eros vestibulum ac,Thai,Expensive,Harlem,10:00,20:00,3,TRUE
+604,sapien in,Chinese,Cheap,SoHo,10:00,20:00,3,TRUE
+605,mi in porttitor,Mexican,Medium,Morningside Heights,10:00,20:00,4,TRUE
+606,duis bibendum felis,Middle Eastern,Cheap,Chelsea,10:00,20:00,1,FALSE
+607,turpis adipiscing,Japanese,Medium,Inwood,10:00,20:00,4,TRUE
+608,ultrices,Mexican,Cheap,Chinatown,10:00,20:00,2,TRUE
+609,interdum venenatis turpis enim,Chinese,Expensive,Morningside Heights,10:00,20:00,3,TRUE
+610,ipsum,Vietnamese,Cheap,Tudor City,10:00,20:00,5,TRUE
+611,aenean,Spanish,Expensive,Roosevelt Island,10:00,20:00,5,TRUE
+612,euismod scelerisque,Indian,Medium,Battery Park City,10:00,20:00,1,FALSE
+613,blandit,Thai,Expensive,Battery Park City,10:00,20:00,1,FALSE
+614,tempus semper est,Italian,Medium,Inwood,10:00,20:00,2,TRUE
+615,lacinia eget tincidunt eget,American,Expensive,Inwood,10:00,20:00,5,TRUE
+616,amet nulla,Korean,Medium,Chelsea,10:00,20:00,2,FALSE
+617,in,Korean,Medium,Tudor City,10:00,20:00,3,TRUE
+618,sociis,French,Expensive,Hell's Kitchen,10:00,20:00,2,FALSE
+619,odio consequat varius integer,Indian,Cheap,Turtle Bay,10:00,20:00,3,TRUE
+620,ut volutpat sapien,Vietnamese,Expensive,SoHo,10:00,20:00,1,FALSE
+621,felis donec semper sapien,Spanish,Medium,East Village,10:00,20:00,5,FALSE
+622,erat,American,Cheap,Kips Bay,10:00,20:00,3,FALSE
+623,non ligula,Mexican,Medium,Greenwich Village,10:00,20:00,3,TRUE
+624,viverra diam vitae,Italian,Expensive,Lincoln Square,10:00,20:00,5,FALSE
+625,ut tellus,Chinese,Medium,Chelsea,10:00,20:00,2,FALSE
+626,sociis,Korean,Cheap,Midtown,10:00,20:00,5,TRUE
+627,pellentesque,Italian,Medium,Nolita,10:00,20:00,4,FALSE
+628,lobortis vel dapibus at,Japanese,Cheap,NoHo,10:00,20:00,1,TRUE
+629,odio odio elementum,American,Cheap,Lincoln Square,10:00,20:00,4,FALSE
+630,a libero nam dui,Korean,Expensive,SoHo,10:00,20:00,3,FALSE
+631,nec nisi,Italian,Medium,Yorkville,10:00,20:00,4,TRUE
+632,odio consequat,Thai,Expensive,Tribeca,10:00,20:00,1,TRUE
+633,cras in,Korean,Cheap,SoHo,10:00,20:00,4,FALSE
+634,sapien placerat,Spanish,Expensive,Lower East Side,10:00,20:00,3,TRUE
+635,id lobortis convallis,Thai,Expensive,Tudor City,10:00,20:00,5,FALSE
+636,in congue,Indian,Medium,NoHo,10:00,20:00,1,FALSE
+637,sit,Chinese,Medium,Upper East Side,10:00,20:00,1,FALSE
+638,pellentesque,Chinese,Medium,Upper West Side,10:00,20:00,4,TRUE
+639,vestibulum,Japanese,Expensive,Battery Park City,10:00,20:00,5,FALSE
+640,at turpis,Italian,Medium,Washington Heights,10:00,20:00,3,FALSE
+641,semper interdum mauris,French,Cheap,Harlem,10:00,20:00,4,FALSE
+642,molestie,French,Expensive,Upper West Side,10:00,20:00,4,FALSE
+643,sapien quis libero,American,Medium,Chinatown,10:00,20:00,5,TRUE
+644,diam,Middle Eastern,Cheap,Upper West Side,10:00,20:00,3,FALSE
+645,sed augue aliquam,American,Cheap,Flatiron District,10:00,20:00,2,TRUE
+646,donec vitae nisi nam,Chinese,Medium,Financial District,10:00,20:00,2,FALSE
+647,nisi venenatis,Chinese,Medium,Midtown,10:00,20:00,5,TRUE
+648,odio donec vitae,Middle Eastern,Cheap,Tudor City,10:00,20:00,5,FALSE
+649,in faucibus,Spanish,Medium,West Village,10:00,20:00,1,TRUE
+650,sed vel enim sit,Mexican,Medium,Chinatown,10:00,20:00,4,FALSE
+651,ut erat id,Chinese,Cheap,Kips Bay,10:00,20:00,3,TRUE
+652,ut,Spanish,Medium,West Village,10:00,20:00,1,TRUE
+653,est risus auctor,Mexican,Medium,Lower East Side,10:00,20:00,5,FALSE
+654,velit donec diam,Middle Eastern,Medium,Washington Heights,10:00,20:00,5,FALSE
+655,turpis adipiscing lorem,American,Cheap,East Village,10:00,20:00,3,FALSE
+656,rhoncus aliquet,Japanese,Cheap,Harlem,10:00,20:00,1,TRUE
+657,varius ut,Mexican,Expensive,West Village,10:00,20:00,3,TRUE
+658,elit,Spanish,Medium,West Village,10:00,20:00,1,FALSE
+659,interdum mauris ullamcorper purus,French,Medium,Battery Park City,10:00,20:00,1,FALSE
+660,mauris lacinia,Spanish,Medium,Yorkville,10:00,20:00,3,TRUE
+661,mattis egestas,Japanese,Medium,Nolita,10:00,20:00,2,TRUE
+662,sed justo pellentesque,Italian,Expensive,Battery Park City,10:00,20:00,5,TRUE
+663,morbi,French,Medium,Chinatown,10:00,20:00,4,FALSE
+664,purus eu magna,Indian,Medium,Little Italy,10:00,20:00,4,TRUE
+665,justo etiam pretium,Italian,Cheap,Sutton Place,10:00,20:00,1,FALSE
+666,faucibus cursus urna,Japanese,Expensive,NoHo,10:00,20:00,3,TRUE
+667,odio consequat,American,Cheap,Little Italy,10:00,20:00,5,FALSE
+668,pretium,Spanish,Expensive,Morningside Heights,10:00,20:00,4,FALSE
+669,iaculis,Middle Eastern,Expensive,Little Italy,10:00,20:00,2,TRUE
+670,libero quis orci nullam,Indian,Medium,SoHo,10:00,20:00,4,FALSE
+671,nisl,Indian,Cheap,Meatpacking District,10:00,20:00,4,FALSE
+672,blandit,Korean,Medium,Harlem,10:00,20:00,4,TRUE
+673,morbi sem,Mexican,Expensive,Murray Hill,10:00,20:00,5,TRUE
+674,volutpat,Korean,Expensive,Upper East Side,10:00,20:00,1,FALSE
+675,metus sapien ut,Middle Eastern,Cheap,Washington Heights,10:00,20:00,5,TRUE
+676,sit,Mexican,Medium,Sutton Place,10:00,20:00,4,TRUE
+677,dictumst,Indian,Cheap,Lenox Hill,10:00,20:00,4,TRUE
+678,justo maecenas,Japanese,Expensive,Gramercy Park,10:00,20:00,2,TRUE
+679,elit proin risus praesent,Japanese,Expensive,Stuyvesant Town,10:00,20:00,2,TRUE
+680,ligula sit,Spanish,Expensive,Greenwich Village,10:00,20:00,4,FALSE
+681,in hac habitasse platea,American,Expensive,Flatiron District,10:00,20:00,1,FALSE
+682,nibh ligula nec sem,Vietnamese,Medium,Kips Bay,10:00,20:00,4,TRUE
+683,consectetuer adipiscing elit proin,Chinese,Cheap,Yorkville,10:00,20:00,5,FALSE
+684,tristique fusce,Middle Eastern,Medium,Stuyvesant Town,10:00,20:00,3,FALSE
+685,elit,Japanese,Medium,NoHo,10:00,20:00,1,TRUE
+686,cubilia curae donec,Spanish,Medium,Washington Heights,10:00,20:00,5,TRUE
+687,in libero ut,Chinese,Cheap,Tudor City,10:00,20:00,5,FALSE
+688,tortor,Japanese,Medium,Financial District,10:00,20:00,4,TRUE
+689,integer,Japanese,Cheap,Lenox Hill,10:00,20:00,1,TRUE
+690,pretium iaculis,Spanish,Cheap,Meatpacking District,10:00,20:00,4,TRUE
+691,adipiscing lorem vitae mattis,Vietnamese,Cheap,Lincoln Square,10:00,20:00,1,FALSE
+692,ut suscipit,Italian,Cheap,Chinatown,10:00,20:00,1,FALSE
+693,curae duis faucibus accumsan,Italian,Expensive,SoHo,10:00,20:00,5,FALSE
+694,pede venenatis non,Chinese,Expensive,Murray Hill,10:00,20:00,4,TRUE
+695,platea,Vietnamese,Cheap,Inwood,10:00,20:00,3,TRUE
+696,quam turpis adipiscing,American,Medium,Meatpacking District,10:00,20:00,2,TRUE
+697,turpis nec euismod scelerisque,Indian,Expensive,Greenwich Village,10:00,20:00,1,TRUE
+698,faucibus cursus,Middle Eastern,Cheap,Yorkville,10:00,20:00,4,TRUE
+699,tortor id nulla,Italian,Cheap,NoHo,10:00,20:00,5,TRUE
+700,posuere metus vitae ipsum,Italian,Expensive,Chinatown,10:00,20:00,5,FALSE
+701,dis parturient montes nascetur,Spanish,Expensive,Lincoln Square,10:00,20:00,4,FALSE
+702,duis at,French,Medium,East Village,10:00,20:00,5,TRUE
+703,rhoncus aliquet pulvinar,Indian,Expensive,Little Italy,10:00,20:00,3,TRUE
+704,ligula pellentesque,Chinese,Medium,Gramercy Park,10:00,20:00,4,TRUE
+705,imperdiet,Chinese,Cheap,Lenox Hill,10:00,20:00,3,TRUE
+706,purus sit amet nulla,Italian,Cheap,Battery Park City,10:00,20:00,4,FALSE
+707,ligula,Mexican,Medium,Lower East Side,10:00,20:00,3,TRUE
+708,in hac,Spanish,Cheap,Midtown,10:00,20:00,2,TRUE
+709,curabitur at ipsum ac,Vietnamese,Cheap,SoHo,10:00,20:00,4,TRUE
+710,lobortis vel,American,Medium,Sutton Place,10:00,20:00,1,FALSE
+711,id justo sit amet,French,Medium,Greenwich Village,10:00,20:00,4,FALSE
+712,erat,Thai,Cheap,Flatiron District,10:00,20:00,1,FALSE
+713,vitae quam,French,Cheap,Roosevelt Island,10:00,20:00,4,TRUE
+714,purus phasellus,Middle Eastern,Expensive,Meatpacking District,10:00,20:00,2,TRUE
+715,et ultrices posuere,Japanese,Expensive,Greenwich Village,10:00,20:00,3,FALSE
+716,vestibulum ante,Japanese,Medium,Upper West Side,10:00,20:00,5,FALSE
+717,vel sem,Spanish,Cheap,Roosevelt Island,10:00,20:00,3,TRUE
+718,eleifend,Chinese,Expensive,NoHo,10:00,20:00,5,TRUE
+719,orci nullam,American,Medium,Upper West Side,10:00,20:00,4,TRUE
+720,cursus urna ut tellus,Korean,Expensive,Lower East Side,10:00,20:00,5,TRUE
+721,faucibus orci luctus et,American,Medium,Roosevelt Island,10:00,20:00,2,FALSE
+722,pellentesque,Vietnamese,Expensive,Upper East Side,10:00,20:00,4,FALSE
+723,ligula vehicula consequat,American,Cheap,SoHo,10:00,20:00,3,TRUE
+724,ipsum dolor sit amet,Spanish,Expensive,West Village,10:00,20:00,5,FALSE
+725,adipiscing,American,Expensive,Upper West Side,10:00,20:00,5,FALSE
+726,dui,Middle Eastern,Cheap,East Village,10:00,20:00,5,FALSE
+727,ligula,Chinese,Expensive,Harlem,10:00,20:00,1,FALSE
+728,magnis dis parturient,Vietnamese,Cheap,Flatiron District,10:00,20:00,3,FALSE
+729,eget massa tempor,Indian,Medium,Chinatown,10:00,20:00,3,TRUE
+730,rhoncus,Chinese,Medium,Murray Hill,10:00,20:00,5,TRUE
+731,felis sed,Thai,Medium,Kips Bay,10:00,20:00,1,FALSE
+732,justo lacinia,Vietnamese,Expensive,Tudor City,10:00,20:00,1,FALSE
+733,eu,Middle Eastern,Cheap,Nolita,10:00,20:00,1,TRUE
+734,quam fringilla rhoncus mauris,Thai,Cheap,Flatiron District,10:00,20:00,4,TRUE
+735,in sapien iaculis congue,Thai,Expensive,Morningside Heights,10:00,20:00,3,TRUE
+736,consectetuer adipiscing,Vietnamese,Cheap,Tribeca,10:00,20:00,1,TRUE
+737,tortor,Chinese,Expensive,Greenwich Village,10:00,20:00,3,TRUE
+738,maecenas tristique,Japanese,Medium,Battery Park City,10:00,20:00,3,FALSE
+739,lorem vitae,American,Medium,SoHo,10:00,20:00,4,TRUE
+740,justo in blandit ultrices,French,Medium,Lower East Side,10:00,20:00,4,FALSE
+741,in hac habitasse platea,Mexican,Medium,SoHo,10:00,20:00,1,FALSE
+742,nullam,Korean,Medium,Meatpacking District,10:00,20:00,5,FALSE
+743,dictumst maecenas ut massa,Chinese,Medium,Kips Bay,10:00,20:00,4,FALSE
+744,libero non,Middle Eastern,Medium,NoHo,10:00,20:00,4,TRUE
+745,mi in,Mexican,Medium,Chinatown,10:00,20:00,5,FALSE
+746,praesent lectus,Mexican,Cheap,Turtle Bay,10:00,20:00,3,TRUE
+747,dapibus,Indian,Medium,Midtown,10:00,20:00,3,FALSE
+748,nunc proin,Spanish,Expensive,Hell's Kitchen,10:00,20:00,5,FALSE
+749,lectus aliquam sit amet,Korean,Medium,SoHo,10:00,20:00,4,FALSE
+750,vestibulum,Mexican,Expensive,Washington Heights,10:00,20:00,4,TRUE
+751,id nulla,Italian,Cheap,Harlem,10:00,20:00,3,FALSE
+752,nec molestie sed justo,Mexican,Medium,West Village,10:00,20:00,2,FALSE
+753,ac,Korean,Cheap,Sutton Place,10:00,20:00,5,TRUE
+754,lorem ipsum dolor,Mexican,Medium,Financial District,10:00,20:00,5,TRUE
+755,nullam orci pede venenatis,French,Expensive,Hell's Kitchen,10:00,20:00,2,FALSE
+756,urna pretium nisl ut,Middle Eastern,Cheap,Midtown,10:00,20:00,4,TRUE
+757,sed magna at nunc,French,Cheap,Gramercy Park,10:00,20:00,1,TRUE
+758,nulla integer,Middle Eastern,Expensive,Upper West Side,10:00,20:00,3,FALSE
+759,mus etiam vel augue,Spanish,Medium,Harlem,10:00,20:00,3,FALSE
+760,duis at,Thai,Medium,Lenox Hill,10:00,20:00,1,TRUE
+761,vestibulum,French,Medium,East Village,10:00,20:00,3,TRUE
+762,fermentum donec,Chinese,Cheap,Midtown,10:00,20:00,3,TRUE
+763,non,Middle Eastern,Expensive,Kips Bay,10:00,20:00,2,FALSE
+764,vehicula consequat,Korean,Cheap,Stuyvesant Town,10:00,20:00,3,FALSE
+765,donec ut dolor morbi,Mexican,Expensive,Chelsea,10:00,20:00,2,TRUE
+766,nam ultrices libero non,American,Expensive,West Village,10:00,20:00,1,FALSE
+767,ultrices,Korean,Expensive,Tudor City,10:00,20:00,3,TRUE
+768,integer aliquet massa,Vietnamese,Cheap,Chelsea,10:00,20:00,3,FALSE
+769,cras,Japanese,Expensive,Sutton Place,10:00,20:00,1,FALSE
+770,magnis,Korean,Cheap,NoHo,10:00,20:00,5,FALSE
+771,curae donec pharetra magna,Spanish,Cheap,SoHo,10:00,20:00,4,FALSE
+772,lectus aliquam,Korean,Expensive,Sutton Place,10:00,20:00,2,TRUE
+773,et,Mexican,Cheap,West Village,10:00,20:00,1,TRUE
+774,pellentesque at,Chinese,Cheap,East Village,10:00,20:00,3,TRUE
+775,sed vel enim,Spanish,Cheap,Upper West Side,10:00,20:00,2,TRUE
+776,lorem,Italian,Medium,Lincoln Square,10:00,20:00,5,FALSE
+777,interdum mauris,Italian,Expensive,Lenox Hill,10:00,20:00,5,FALSE
+778,eu orci,Mexican,Expensive,Chelsea,10:00,20:00,2,FALSE
+779,nam dui proin leo,Indian,Cheap,Little Italy,10:00,20:00,5,TRUE
+780,ut mauris eget massa,French,Expensive,Financial District,10:00,20:00,2,FALSE
+781,dis parturient,Mexican,Medium,Turtle Bay,10:00,20:00,3,TRUE
+782,pede posuere nonummy,American,Medium,Sutton Place,10:00,20:00,3,TRUE
+783,pellentesque at nulla suspendisse,American,Medium,Financial District,10:00,20:00,2,TRUE
+784,ornare consequat lectus,Korean,Expensive,Yorkville,10:00,20:00,3,FALSE
+785,rutrum,French,Expensive,Chelsea,10:00,20:00,5,FALSE
+786,dignissim vestibulum vestibulum,Chinese,Cheap,Inwood,10:00,20:00,1,FALSE
+787,ultrices,Japanese,Expensive,Sutton Place,10:00,20:00,3,TRUE
+788,cubilia curae donec pharetra,Middle Eastern,Expensive,East Village,10:00,20:00,5,FALSE
+789,porta,Japanese,Medium,Yorkville,10:00,20:00,3,TRUE
+790,lobortis vel dapibus,Indian,Cheap,Meatpacking District,10:00,20:00,5,TRUE
+791,in porttitor,Japanese,Cheap,Roosevelt Island,10:00,20:00,5,FALSE
+792,arcu,Thai,Medium,Yorkville,10:00,20:00,3,TRUE
+793,nisl nunc,Mexican,Medium,Little Italy,10:00,20:00,1,FALSE
+794,volutpat dui maecenas tristique,American,Medium,Midtown,10:00,20:00,1,FALSE
+795,dolor,Japanese,Medium,Little Italy,10:00,20:00,1,TRUE
+796,vehicula consequat morbi a,Chinese,Expensive,Roosevelt Island,10:00,20:00,1,TRUE
+797,luctus nec molestie sed,Thai,Cheap,Stuyvesant Town,10:00,20:00,4,TRUE
+798,et ultrices posuere cubilia,Mexican,Medium,Greenwich Village,10:00,20:00,1,TRUE
+799,amet nulla quisque,Chinese,Expensive,West Village,10:00,20:00,1,FALSE
+800,nulla ac,Korean,Expensive,Morningside Heights,10:00,20:00,2,TRUE
+801,condimentum curabitur in,Spanish,Medium,Lower East Side,10:00,20:00,2,FALSE
+802,nunc rhoncus,Italian,Cheap,Lenox Hill,10:00,20:00,5,TRUE
+803,varius nulla facilisi,Japanese,Medium,Upper East Side,10:00,20:00,5,TRUE
+804,tristique fusce congue,Indian,Cheap,Tudor City,10:00,20:00,2,TRUE
+805,vulputate elementum,Japanese,Cheap,West Village,10:00,20:00,2,TRUE
+806,rutrum nulla tellus,Spanish,Expensive,Morningside Heights,10:00,20:00,5,TRUE
+807,curabitur in,Italian,Expensive,Yorkville,10:00,20:00,3,TRUE
+808,in ante vestibulum,Vietnamese,Medium,Washington Heights,10:00,20:00,2,FALSE
+809,integer pede,Korean,Expensive,Harlem,10:00,20:00,4,FALSE
+810,nam,Thai,Expensive,Gramercy Park,10:00,20:00,1,FALSE
+811,nulla,French,Medium,Stuyvesant Town,10:00,20:00,4,TRUE
+812,ut suscipit a feugiat,Chinese,Medium,Chinatown,10:00,20:00,4,TRUE
+813,sapien,Japanese,Medium,East Village,10:00,20:00,5,TRUE
+814,ut,Spanish,Cheap,Lenox Hill,10:00,20:00,1,FALSE
+815,convallis,Italian,Medium,Tribeca,10:00,20:00,5,TRUE
+816,etiam vel augue vestibulum,Indian,Cheap,Battery Park City,10:00,20:00,2,TRUE
+817,ultrices posuere,Indian,Cheap,Lincoln Square,10:00,20:00,3,FALSE
+818,curabitur convallis duis consequat,Vietnamese,Expensive,Hell's Kitchen,10:00,20:00,5,FALSE
+819,lacinia erat vestibulum,Korean,Medium,Washington Heights,10:00,20:00,2,TRUE
+820,ac,Vietnamese,Cheap,NoHo,10:00,20:00,5,FALSE
+821,faucibus orci,Japanese,Cheap,Turtle Bay,10:00,20:00,4,TRUE
+822,odio justo sollicitudin ut,Korean,Expensive,Inwood,10:00,20:00,3,TRUE
+823,blandit nam nulla,Thai,Cheap,Gramercy Park,10:00,20:00,2,FALSE
+824,pede posuere nonummy,Korean,Medium,West Village,10:00,20:00,5,FALSE
+825,lectus in,American,Cheap,West Village,10:00,20:00,5,FALSE
+826,congue,Thai,Medium,Meatpacking District,10:00,20:00,1,FALSE
+827,blandit lacinia erat,Thai,Cheap,Harlem,10:00,20:00,4,FALSE
+828,vestibulum eget vulputate ut,American,Expensive,West Village,10:00,20:00,5,TRUE
+829,consequat,Italian,Cheap,SoHo,10:00,20:00,4,FALSE
+830,libero rutrum ac lobortis,Thai,Cheap,NoHo,10:00,20:00,3,FALSE
+831,vel nisl duis,Indian,Expensive,Lower East Side,10:00,20:00,5,TRUE
+832,nunc purus phasellus in,Italian,Medium,Morningside Heights,10:00,20:00,4,FALSE
+833,id,Korean,Expensive,West Village,10:00,20:00,3,FALSE
+834,nunc,Vietnamese,Medium,Stuyvesant Town,10:00,20:00,2,FALSE
+835,sapien arcu sed augue,Middle Eastern,Cheap,Battery Park City,10:00,20:00,3,TRUE
+836,ipsum aliquam non mauris,Vietnamese,Expensive,Sutton Place,10:00,20:00,1,FALSE
+837,ut rhoncus aliquet,Indian,Cheap,NoHo,10:00,20:00,5,FALSE
+838,in magna,French,Cheap,Washington Heights,10:00,20:00,3,FALSE
+839,justo in blandit ultrices,French,Medium,Financial District,10:00,20:00,5,TRUE
+840,iaculis,Italian,Expensive,Morningside Heights,10:00,20:00,2,FALSE
+841,ligula,Japanese,Cheap,Yorkville,10:00,20:00,2,FALSE
+842,eros suspendisse accumsan,Japanese,Medium,Chelsea,10:00,20:00,1,TRUE
+843,at velit vivamus vel,Thai,Medium,Lincoln Square,10:00,20:00,4,TRUE
+844,at lorem integer,Mexican,Cheap,Upper East Side,10:00,20:00,1,TRUE
+845,eu nibh,Japanese,Cheap,Tribeca,10:00,20:00,1,TRUE
+846,luctus nec molestie,Indian,Cheap,Morningside Heights,10:00,20:00,5,TRUE
+847,iaculis,Mexican,Cheap,Kips Bay,10:00,20:00,1,FALSE
+848,lacus at velit,Thai,Cheap,NoHo,10:00,20:00,2,TRUE
+849,velit donec diam,Indian,Medium,Battery Park City,10:00,20:00,5,FALSE
+850,convallis,Japanese,Medium,Chelsea,10:00,20:00,5,TRUE
+851,purus eu magna,French,Cheap,Washington Heights,10:00,20:00,4,FALSE
+852,a,Middle Eastern,Medium,Sutton Place,10:00,20:00,4,TRUE
+853,ultrices posuere,American,Cheap,Roosevelt Island,10:00,20:00,4,TRUE
+854,libero,French,Expensive,Nolita,10:00,20:00,1,FALSE
+855,primis in,Japanese,Medium,Stuyvesant Town,10:00,20:00,2,FALSE
+856,vestibulum sed magna,Chinese,Expensive,Hell's Kitchen,10:00,20:00,1,TRUE
+857,nulla sed accumsan felis,Indian,Cheap,Stuyvesant Town,10:00,20:00,2,FALSE
+858,pretium nisl ut,American,Cheap,Kips Bay,10:00,20:00,2,TRUE
+859,at,Vietnamese,Expensive,Murray Hill,10:00,20:00,4,TRUE
+860,nibh quisque,Italian,Cheap,Morningside Heights,10:00,20:00,4,FALSE
+861,pede morbi,American,Medium,Lenox Hill,10:00,20:00,3,FALSE
+862,quam fringilla rhoncus,Vietnamese,Expensive,Yorkville,10:00,20:00,4,FALSE
+863,nisi venenatis,Italian,Cheap,Tribeca,10:00,20:00,4,FALSE
+864,consectetuer adipiscing elit,Chinese,Medium,SoHo,10:00,20:00,3,TRUE
+865,eleifend luctus ultricies eu,Chinese,Cheap,Sutton Place,10:00,20:00,5,FALSE
+866,proin risus praesent,Thai,Expensive,Battery Park City,10:00,20:00,4,FALSE
+867,quisque,Mexican,Expensive,Midtown,10:00,20:00,5,TRUE
+868,lectus aliquam sit,Chinese,Medium,Roosevelt Island,10:00,20:00,1,TRUE
+869,nibh in hac habitasse,Chinese,Cheap,Tudor City,10:00,20:00,3,FALSE
+870,posuere cubilia curae mauris,Mexican,Medium,SoHo,10:00,20:00,5,FALSE
+871,congue vivamus metus arcu,Korean,Cheap,SoHo,10:00,20:00,1,TRUE
+872,non,Korean,Medium,SoHo,10:00,20:00,2,TRUE
+873,cubilia curae duis,Italian,Expensive,Murray Hill,10:00,20:00,3,FALSE
+874,convallis duis,Middle Eastern,Medium,Financial District,10:00,20:00,1,FALSE
+875,semper,Spanish,Cheap,Greenwich Village,10:00,20:00,2,FALSE
+876,est quam pharetra,Italian,Cheap,Chelsea,10:00,20:00,4,TRUE
+877,lacinia aenean,Mexican,Cheap,Yorkville,10:00,20:00,4,FALSE
+878,at lorem integer tincidunt,Chinese,Cheap,Lower East Side,10:00,20:00,2,TRUE
+879,eget rutrum,French,Medium,East Village,10:00,20:00,2,TRUE
+880,vel pede morbi,Korean,Expensive,Greenwich Village,10:00,20:00,4,TRUE
+881,amet,American,Cheap,Meatpacking District,10:00,20:00,1,FALSE
+882,posuere metus vitae ipsum,Italian,Expensive,Hell's Kitchen,10:00,20:00,3,TRUE
+883,maecenas tristique est et,French,Expensive,Greenwich Village,10:00,20:00,5,FALSE
+884,a odio in,Spanish,Medium,Greenwich Village,10:00,20:00,5,FALSE
+885,pede ac diam cras,French,Expensive,Little Italy,10:00,20:00,3,TRUE
+886,id turpis integer aliquet,Italian,Expensive,Lower East Side,10:00,20:00,1,FALSE
+887,id nulla,Chinese,Cheap,Inwood,10:00,20:00,3,TRUE
+888,ac consequat,French,Expensive,Hell's Kitchen,10:00,20:00,2,TRUE
+889,vestibulum ac est lacinia,French,Expensive,Gramercy Park,10:00,20:00,3,TRUE
+890,non mattis pulvinar,Thai,Expensive,Sutton Place,10:00,20:00,3,FALSE
+891,vulputate ut ultrices,Middle Eastern,Expensive,Little Italy,10:00,20:00,1,TRUE
+892,lacus,Thai,Medium,Nolita,10:00,20:00,4,TRUE
+893,sed vestibulum sit,Japanese,Cheap,Stuyvesant Town,10:00,20:00,5,TRUE
+894,nunc purus phasellus,Korean,Medium,Lincoln Square,10:00,20:00,4,FALSE
+895,aliquet pulvinar,Japanese,Expensive,Lenox Hill,10:00,20:00,4,FALSE
+896,quis turpis sed ante,Japanese,Expensive,Washington Heights,10:00,20:00,2,FALSE
+897,pellentesque quisque,Vietnamese,Expensive,Sutton Place,10:00,20:00,4,FALSE
+898,ante nulla justo aliquam,American,Medium,Yorkville,10:00,20:00,5,TRUE
+899,orci,Spanish,Medium,Tudor City,10:00,20:00,5,FALSE
+900,vehicula condimentum curabitur,American,Medium,Turtle Bay,10:00,20:00,3,TRUE
+901,sed accumsan felis,Korean,Medium,Washington Heights,10:00,20:00,4,FALSE
+902,est risus,Japanese,Cheap,Tudor City,10:00,20:00,1,TRUE
+903,tristique,Thai,Medium,Morningside Heights,10:00,20:00,2,FALSE
+904,platea dictumst,American,Medium,Murray Hill,10:00,20:00,2,TRUE
+905,purus sit amet nulla,Vietnamese,Cheap,Chelsea,10:00,20:00,2,TRUE
+906,sit,French,Expensive,Flatiron District,10:00,20:00,2,FALSE
+907,sapien iaculis congue,Indian,Medium,Tribeca,10:00,20:00,2,FALSE
+908,hac habitasse,Indian,Medium,Murray Hill,10:00,20:00,3,FALSE
+909,feugiat non pretium quis,Middle Eastern,Cheap,Washington Heights,10:00,20:00,2,TRUE
+910,sapien cursus,Thai,Medium,Stuyvesant Town,10:00,20:00,1,TRUE
+911,cum sociis natoque,Spanish,Cheap,Inwood,10:00,20:00,4,FALSE
+912,dis parturient,Korean,Cheap,West Village,10:00,20:00,4,TRUE
+913,nibh quisque id,Thai,Medium,Morningside Heights,10:00,20:00,4,TRUE
+914,maecenas ut,Mexican,Medium,Turtle Bay,10:00,20:00,3,FALSE
+915,sit amet lobortis sapien,American,Cheap,Morningside Heights,10:00,20:00,5,TRUE
+916,id,Vietnamese,Medium,Hell's Kitchen,10:00,20:00,2,FALSE
+917,suscipit,Middle Eastern,Cheap,Greenwich Village,10:00,20:00,1,FALSE
+918,donec odio justo,Spanish,Medium,Chinatown,10:00,20:00,3,FALSE
+919,mus vivamus vestibulum sagittis,Mexican,Medium,Hell's Kitchen,10:00,20:00,4,FALSE
+920,lacus morbi,Indian,Cheap,Battery Park City,10:00,20:00,5,TRUE
+921,lacinia sapien,Italian,Cheap,Lenox Hill,10:00,20:00,5,TRUE
+922,hac,Japanese,Cheap,West Village,10:00,20:00,1,TRUE
+923,libero,Thai,Expensive,Greenwich Village,10:00,20:00,1,TRUE
+924,id massa id nisl,Italian,Expensive,Chelsea,10:00,20:00,4,FALSE
+925,orci luctus et ultrices,Indian,Medium,Morningside Heights,10:00,20:00,5,FALSE
+926,lacinia eget,Vietnamese,Medium,Midtown,10:00,20:00,2,FALSE
+927,nulla dapibus,American,Cheap,Lenox Hill,10:00,20:00,4,TRUE
+928,vulputate,French,Expensive,Meatpacking District,10:00,20:00,3,FALSE
+929,dictumst maecenas,American,Expensive,Nolita,10:00,20:00,2,FALSE
+930,penatibus,Korean,Expensive,Flatiron District,10:00,20:00,4,FALSE
+931,at,Middle Eastern,Medium,Chinatown,10:00,20:00,3,TRUE
+932,interdum mauris,American,Medium,Nolita,10:00,20:00,1,TRUE
+933,ipsum,American,Cheap,Turtle Bay,10:00,20:00,2,TRUE
+934,nunc viverra dapibus nulla,Spanish,Medium,Upper West Side,10:00,20:00,4,FALSE
+935,gravida nisi,Chinese,Expensive,SoHo,10:00,20:00,1,TRUE
+936,sapien arcu,Thai,Medium,Inwood,10:00,20:00,5,TRUE
+937,vulputate vitae nisl aenean,Spanish,Expensive,West Village,10:00,20:00,2,FALSE
+938,nec sem,Middle Eastern,Medium,Hell's Kitchen,10:00,20:00,3,TRUE
+939,rutrum nulla nunc purus,Italian,Medium,Inwood,10:00,20:00,3,FALSE
+940,ullamcorper purus sit,Thai,Medium,Lincoln Square,10:00,20:00,3,FALSE
+941,sapien in sapien,Japanese,Cheap,Hell's Kitchen,10:00,20:00,5,FALSE
+942,id luctus nec molestie,American,Expensive,Nolita,10:00,20:00,3,TRUE
+943,amet diam,Italian,Expensive,Little Italy,10:00,20:00,1,TRUE
+944,nulla,American,Expensive,Chinatown,10:00,20:00,5,TRUE
+945,morbi a ipsum,Mexican,Cheap,Greenwich Village,10:00,20:00,1,FALSE
+946,sit,Chinese,Cheap,Hell's Kitchen,10:00,20:00,2,FALSE
+947,semper porta,Vietnamese,Cheap,Flatiron District,10:00,20:00,2,FALSE
+948,nulla facilisi cras non,Indian,Cheap,Gramercy Park,10:00,20:00,2,TRUE
+949,nulla nunc purus phasellus,Vietnamese,Expensive,Gramercy Park,10:00,20:00,1,TRUE
+950,est lacinia,American,Cheap,Flatiron District,10:00,20:00,3,FALSE
+951,consequat in consequat,Vietnamese,Cheap,Upper West Side,10:00,20:00,3,TRUE
+952,in,Spanish,Expensive,Lincoln Square,10:00,20:00,2,TRUE
+953,pulvinar sed nisl,Mexican,Medium,Lower East Side,10:00,20:00,3,FALSE
+954,dis parturient,Thai,Cheap,Roosevelt Island,10:00,20:00,2,TRUE
+955,praesent,French,Cheap,Stuyvesant Town,10:00,20:00,3,FALSE
+956,mauris vulputate elementum nullam,French,Medium,Nolita,10:00,20:00,2,FALSE
+957,eu nibh,Chinese,Expensive,Chinatown,10:00,20:00,3,FALSE
+958,sapien placerat,Vietnamese,Expensive,Greenwich Village,10:00,20:00,5,FALSE
+959,nisi volutpat,Korean,Cheap,Nolita,10:00,20:00,5,FALSE
+960,placerat praesent blandit nam,Thai,Medium,Flatiron District,10:00,20:00,3,FALSE
+961,ligula sit amet,Spanish,Medium,Chelsea,10:00,20:00,3,TRUE
+962,mauris vulputate elementum nullam,Japanese,Cheap,Roosevelt Island,10:00,20:00,5,FALSE
+963,ipsum primis in faucibus,Korean,Medium,Chinatown,10:00,20:00,4,TRUE
+964,nullam molestie,Chinese,Cheap,Midtown,10:00,20:00,3,FALSE
+965,vitae,Thai,Medium,NoHo,10:00,20:00,3,FALSE
+966,felis sed lacus,Thai,Cheap,Meatpacking District,10:00,20:00,1,TRUE
+967,nunc donec quis,Vietnamese,Medium,East Village,10:00,20:00,4,TRUE
+968,mauris,American,Expensive,Stuyvesant Town,10:00,20:00,1,TRUE
+969,odio consequat varius,Indian,Cheap,SoHo,10:00,20:00,4,FALSE
+970,mattis,Mexican,Medium,Little Italy,10:00,20:00,2,FALSE
+971,donec dapibus duis at,French,Medium,Lenox Hill,10:00,20:00,5,TRUE
+972,a pede posuere nonummy,Mexican,Medium,SoHo,10:00,20:00,5,TRUE
+973,sollicitudin ut,Middle Eastern,Medium,Meatpacking District,10:00,20:00,2,TRUE
+974,lacus purus aliquet at,Indian,Cheap,Murray Hill,10:00,20:00,3,TRUE
+975,dapibus nulla suscipit ligula,Middle Eastern,Expensive,Harlem,10:00,20:00,2,FALSE
+976,feugiat,Italian,Medium,Battery Park City,10:00,20:00,2,FALSE
+977,quis justo,American,Cheap,East Village,10:00,20:00,5,FALSE
+978,turpis sed ante,Thai,Expensive,Murray Hill,10:00,20:00,3,TRUE
+979,dictumst aliquam augue,Chinese,Expensive,Upper East Side,10:00,20:00,2,TRUE
+980,suspendisse,Vietnamese,Expensive,Chelsea,10:00,20:00,4,FALSE
+981,iaculis congue vivamus,Mexican,Expensive,Lincoln Square,10:00,20:00,3,FALSE
+982,faucibus orci,Korean,Medium,Upper West Side,10:00,20:00,3,FALSE
+983,ullamcorper,Middle Eastern,Expensive,Upper West Side,10:00,20:00,4,FALSE
+984,aliquam,Vietnamese,Medium,Sutton Place,10:00,20:00,2,TRUE
+985,ipsum integer a,American,Expensive,Harlem,10:00,20:00,2,TRUE
+986,varius integer ac,Indian,Medium,Roosevelt Island,10:00,20:00,1,FALSE
+987,purus,Thai,Cheap,SoHo,10:00,20:00,1,TRUE
+988,aliquam,Indian,Cheap,Roosevelt Island,10:00,20:00,5,FALSE
+989,lectus in est,Korean,Medium,Yorkville,10:00,20:00,1,FALSE
+990,odio justo sollicitudin ut,Middle Eastern,Cheap,Kips Bay,10:00,20:00,1,FALSE
+991,volutpat,French,Medium,Nolita,10:00,20:00,5,FALSE
+992,est,Vietnamese,Medium,Kips Bay,10:00,20:00,3,FALSE
+993,nisl duis,Korean,Expensive,Tudor City,10:00,20:00,5,FALSE
+994,est,Mexican,Cheap,Morningside Heights,10:00,20:00,1,TRUE
+995,dis parturient,Mexican,Medium,Hell's Kitchen,10:00,20:00,5,TRUE
+996,orci,Spanish,Expensive,NoHo,10:00,20:00,2,TRUE
+997,adipiscing lorem vitae,American,Medium,East Village,10:00,20:00,4,FALSE
+998,morbi porttitor,Korean,Cheap,Turtle Bay,10:00,20:00,5,TRUE
+999,maecenas rhoncus aliquam,American,Expensive,Lower East Side,10:00,20:00,2,FALSE
+1000,ut massa,Thai,Expensive,Lower East Side,10:00,20:00,2,TRUE
